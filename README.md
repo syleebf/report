@@ -26,6 +26,7 @@ URL : POST /api/users/signup
 
 #### 회원 목록 조회
 URL : GET /api/users/list
+
 쿼리 파라미터 :
   - keyword : 정렬 기준 (userName, viewCount, createdAt)
   - asc : 정렬 순서 (오름차순, 내림차순)
